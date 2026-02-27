@@ -1,0 +1,12 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(poetry env:*)",
+      "Bash(curl:*)",
+      "Bash(pip index:*)",
+      "Bash(poetry add:*)",
+      "Bash(poetry config:*)",
+      "Bash(poetry cache:*)"
+    ]
+  }
+}
